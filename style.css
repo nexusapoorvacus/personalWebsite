@@ -11,26 +11,17 @@
 }
 
 #websiteheader {
-	float: left;
-	/*display: block;*/
-    /*margin-left: auto;*/
-    /*margin-right: auto;*/
+	display: block;
+    margin-left: auto;
+    margin-right: auto;
 }
 
-#caltitle {
-	font-family: ‘Vollkorn’, serif;
-	font-weight: 400;
-	font-size: 25px; 
-	text-align: center;
-	color: white;
-	float: right;
-	margin-right: 80px;
-	margin-top: 87px;
-	padding: 0px;
-	background-color: black;
+#vertical-navbar img{
+	padding-top: 0px;
+	padding-left: 17px;
+
 }
 
-#customnavbar img {
-	margin-left: 25px;
-	padding-right: 30px;
+#panel-divider {
+	padding-bottom: 0px;
 }
