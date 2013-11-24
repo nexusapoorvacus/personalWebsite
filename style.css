@@ -1,6 +1,7 @@
 * {
 	margin: 0;
 	padding: 0;
+	background: rgba(0, 0, 0, 0.6); /*can be anything, of course*/
 }
 
 .jumbotron {
