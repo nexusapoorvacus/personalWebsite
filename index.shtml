@@ -1,0 +1,29 @@
+<html>
+<!--#include virtual="header.html"-->
+<head>
+	<title>Apoorva's Website</title>
+	<meta charset="utf-8">
+	<meta name="viewport" content="width-device-width, initial-scale=1.0">
+	<link href="css/bootstrap.css" rel="stylesheet" type="text/css">
+	<link href="style.css" rel="stylesheet" type="text/css">
+	<link href='http://fonts.googleapis.com/css?family=Vollkorn:400,700' rel='stylesheet' type='text/css'>
+</head>
+<body>
+	<div>
+		<ul>
+			<a href="AboutMe.shtml" id="subtiles"><img src="http://placehold.it/300x200" alt="AboutMe"></a>
+			<a href="OfficeHoursApp.shtml" id="subtiles"><img src="http://placehold.it/200x200"></a>
+			<a href="FacebookHack2013.shtml"><img src="http://placehold.it/200x200"></a>
+			<a href="Research2013Summer.shtml" id="subtiles"><img src="http://placehold.it/300x200"></a>
+			<a href="ContactMe.shtml" id="subtiles"><img src="http://placehold.it/200x200"></a>
+		</ul>
+		<ul>
+			<a href="Resume.shtml" id="subtiles"><img src="http://placehold.it/300x200"></a>
+			<a href="WiSEWebsite.shtml" id="subtiles"><img src="http://placehold.it/200x200"></a>
+			<a href="HSProjects.shtml"><img src="http://placehold.it/200x200"></a>
+			<a href="Research2012Summer.shtml" id="subtiles"><img src="http://placehold.it/300x200"></a>
+			<img src="http://placehold.it/200x200" id="subtiles">
+		</ul>
+	</div>
+</body>
+<html>

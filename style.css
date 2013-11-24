@@ -16,7 +16,13 @@
     margin-right: auto;
 }
 
-#vertical-navbar img{
+#horizontal-navbar img{
+	padding-top: 0px;
+	padding-left: 17px;
+
+}
+
+#subtiles{
 	padding-top: 0px;
 	padding-left: 17px;
 
@@ -24,4 +30,12 @@
 
 #panel-divider {
 	padding-bottom: 0px;
+}
+
+#pageheaders {
+	text-align: center;
+}
+
+#subtiles li{
+	padding-top: 10px;
 }
