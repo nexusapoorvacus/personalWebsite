@@ -1,0 +1,18 @@
+<html>
+<!--#include virtual="header.html"-->
+<head>
+	<title>Apoorva's Website</title>
+	<meta charset="utf-8">
+	<meta name="viewport" content="width-device-width, initial-scale=1.0">
+	<link href="css/bootstrap.css" rel="stylesheet" type="text/css">
+	<link href="style.css" rel="stylesheet" type="text/css">
+	<link href='http://fonts.googleapis.com/css?family=Vollkorn:400,700' rel='stylesheet' type='text/css'>
+</head>
+<body>
+	<div id="pageheaders">
+		<h1>Community Involvement</h1>
+		</br>
+		<small>UNDER CONSTRUCTION</small>
+	</div>
+</body>
+</html>

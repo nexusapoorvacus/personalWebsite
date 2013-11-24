@@ -11,17 +11,18 @@
 <body>
 	<div>
 		<ul>
-			<a href="AboutMe.shtml" id="subtiles"><img src="http://placehold.it/300x200" alt="AboutMe"></a>
-			<a href="OfficeHoursApp.shtml" id="subtiles"><img src="http://placehold.it/200x200"></a>
-			<a href="FacebookHack2013.shtml"><img src="http://placehold.it/200x200"></a>
-			<a href="Research2013Summer.shtml" id="subtiles"><img src="http://placehold.it/300x200"></a>
-			<a href="ContactMe.shtml" id="subtiles"><img src="http://placehold.it/200x200"></a>
+			<a href="Resume.shtml" id="subtiles"><img src="Resume.jpg"></a>
+			<a href="OfficeHoursApp.shtml" id="subtiles"><img src="OfficeHoursApp.jpg"></a>
+			<a href="FacebookHack2013.shtml"><img src="FBHack.jpg"></a>
+			<a href="IdeasBlog.shtml" id="subtiles"><img src="IdeaBlogTile.jpg"></a>
+			<a href="PersonalBlog.shtml"><img src="PersonalBlog.jpg"></a>
+			<a href="ContactMe.shtml" id="subtiles"><img src="ContactMeTile.jpg"></a>
 		</ul>
 		<ul>
-			<a href="Resume.shtml" id="subtiles"><img src="http://placehold.it/300x200"></a>
-			<a href="WiSEWebsite.shtml" id="subtiles"><img src="http://placehold.it/200x200"></a>
-			<a href="HSProjects.shtml"><img src="http://placehold.it/200x200"></a>
-			<a href="Research2012Summer.shtml" id="subtiles"><img src="http://placehold.it/300x200"></a>
+			<a href="CommunityInvolvement.shtml" id="subtiles"><img src="CommunityInvolvement.jpg"></a>
+			<a href="WiSEWebsite.shtml" id="subtiles"><img src="WiSEWebsite.jpg"></a>
+			<a href="HSProjects.shtml"><img src="HSProjects.jpg"></a>
+			<a href="Research.shtml" id="subtiles"><img src="Research.jpg"></a>
 			<img src="http://placehold.it/200x200" id="subtiles">
 		</ul>
 	</div>
