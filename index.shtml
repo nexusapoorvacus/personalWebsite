@@ -9,8 +9,8 @@
 	<link href='http://fonts.googleapis.com/css?family=Vollkorn:400,700' rel='stylesheet' type='text/css'>
 </head>
 <body>
-	<div>
-		<ul>
+	<div class="overlay">
+		<ul id="toptiles">
 			<a href="Resume.shtml" id="subtiles"><img src="Resume.jpg"></a>
 			<a href="OfficeHoursApp.shtml" id="subtiles"><img src="OfficeHoursApp.jpg"></a>
 			<a href="FacebookHack2013.shtml"><img src="FBHack.jpg"></a>
@@ -18,7 +18,7 @@
 			<a href="PersonalBlog.shtml"><img src="PersonalBlog.jpg"></a>
 			<a href="ContactMe.shtml" id="subtiles"><img src="ContactMeTile.jpg"></a>
 		</ul>
-		<ul>
+		<ul id="bottomtiles">
 			<a href="CommunityInvolvement.shtml" id="subtiles"><img src="CommunityInvolvement.jpg"></a>
 			<a href="WiSEWebsite.shtml" id="subtiles"><img src="WiSEWebsite.jpg"></a>
 			<a href="HSProjects.shtml"><img src="HSProjects.jpg"></a>

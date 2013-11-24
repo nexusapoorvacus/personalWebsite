@@ -39,3 +39,30 @@
 #subtiles li{
 	padding-top: 10px;
 }
+
+.overlay {
+    z-index: 1;
+    height: 100%;
+    width: 100%;
+    position: fixed;
+    overflow: auto;
+    top: 0px;
+    left: 0px;
+    background: rgba(0, 0, 0, 0.6); /*can be anything, of course*/
+}
+
+#toptiles img {
+	opacity: .7; -webkit-filter: grayscale(10%) sepia(10%);
+}
+
+#toptiles img:hover {
+    opacity: 1.0; -webkit-filter: grayscale(0%) sepia(0%);;
+}
+
+#bottomtiles img {
+	opacity: .7; -webkit-filter: grayscale(10%) sepia(10%);
+}
+
+#bottomtiles img:hover {
+    opacity: 1.0; -webkit-filter: grayscale(0%) sepia(0%);;
+}
