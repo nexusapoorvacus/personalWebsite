@@ -13,7 +13,8 @@
 		<h1>Office Hours App</h1>
 	</br>
 	</div>
-	<a href="http://www.ocf.berkeley.edu/~apoorva/flasky/"><h2 id="pagecontent">Go to the App: </br><small>Username: admin Password: default</small></h2></a>
+	<a href="http://www.ocf.berkeley.edu/~apoorva/flasky/"><h2 id="pagecontent">Go to the App: </br></h2></a>
+	<h2 id="pagecontent"><small>Username: admin Password: default</small></h2>
 	<div id="pagecontent">
 		<h3>What is it?</h3>
 		<h4>
