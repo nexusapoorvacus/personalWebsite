@@ -11,8 +11,22 @@
 <body>
 	<div id="pageheaders">
 		<h1>Office Hours App</h1>
-		</br>
-		<small>UNDER CONSTRUCTION</small>
+	</br>
+	</div>
+	<a href="http://www.ocf.berkeley.edu/~apoorva/flasky/"><h2 id="pagecontent">Go to the App: </br><small>Username: admin Password: default</small></h2></a>
+	<div id="pagecontent">
+		<h3>What is it?</h3>
+		<h4>
+			Office Hours are times when college professors, GSI's, and TA's are available for students to ask them questions about anything in the course. As most college students know, these office hours can get chaotic, especially when project deadlines or midterms come closer. This office hours app allows students to sign up for office hours and includes other features that make office hours more organized, efficient, and convenient for the instructors and students, alike.
+		</h4>
+	</br>
+		<h3>Features</h3>
+		<h4> UNDER CONSTRUCTION
+		</h4>
+	</br>
+		<h3>How does it work?</h3>
+		<h4> UNDER CONSTRUCTION
+		</h4>
 	</div>
 </body>
 </html>

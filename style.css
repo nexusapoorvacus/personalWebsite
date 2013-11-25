@@ -62,3 +62,8 @@
 #bottomtiles img:hover {
     opacity: 1.0; -webkit-filter: grayscale(0%) sepia(0%);;
 }
+
+#pagecontent {
+	margin-left: 200px;
+	margin-right: 200px;
+}
