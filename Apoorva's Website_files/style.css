@@ -1,0 +1,69 @@
+* {
+	margin: 0;
+	padding: 0;
+}
+
+.jumbotron {
+	height: 200px;
+	padding: 0;
+	margin: 0;
+	background-color: black;
+}
+
+#websiteheader {
+	display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+#horizontal-navbar img{
+	padding-top: 10px;
+	padding-left: 17px;
+	opacity: .7; -webkit-filter: grayscale(5%) sepia(5%);
+}
+#horizontal-navbar img:hover {
+    opacity: 1.0; -webkit-filter: grayscale(0%) sepia(0%);;
+}
+
+#subtiles{
+	padding-top: 0px;
+	padding-left: 16px;
+
+}
+
+#panel-divider {
+	padding-bottom: 0px;
+}
+
+#pageheaders {
+	text-align: center;
+}
+
+#subtiles li{
+	padding-top: 10px;
+}
+
+.overlay {
+    background: rgba(0, 0, 0, 0.6); /*can be anything, of course*/
+}
+
+#toptiles img {
+	opacity: .7; -webkit-filter: grayscale(10%) sepia(10%);
+}
+
+#toptiles img:hover {
+    opacity: 1.0; -webkit-filter: grayscale(0%) sepia(0%);;
+}
+
+#bottomtiles img {
+	opacity: .7; -webkit-filter: grayscale(10%) sepia(10%);
+}
+
+#bottomtiles img:hover {
+    opacity: 1.0; -webkit-filter: grayscale(0%) sepia(0%);;
+}
+
+#pagecontent {
+	margin-left: 200px;
+	margin-right: 200px;
+}

@@ -12,7 +12,17 @@
 	<div id="pageheaders">
 		<h1>Facebook Hackathon 2013</h1>
 		</br>
-		<small>UNDER CONSTRUCTION</small>
+	</div>
+	<div id="pagecontent">
+		<h3>About the Hackathon</h3>
+		<h4>
+			The <a href="https://www.facebook.com/hackathon">2013 Norcal Facebook Hackathon</a> was the first ever Hackathon that I have ever attended (and my first all-nighter). It took place in the Facebook HQ and there were students from all over the Bay Area. We were allowed to create anything we wanted and there were outstanding works by end of the Hackathon - hardware projects to computer vision games. The entire spirit of the Hackathon was innovative and enthusiastic. There were many amazing Facebook employees there to guide and help us whenever we got stuck. There were raffles and food throughout the night and we were also able to take a company tour! I can't wait to compete in this Hackathon next year where I will know a large amount more than I know now!
+		</h4>
+	</br>
+		<h3>Our Hack</h3>
+		<h4>
+			My friends and I went to the Hackathon as a team. We had brainstormed some ideas before hand but we ended up doing something entirely different. We went in the Hackathon with the thoughts of creating a Marauders Map, inspired by Harry Potter. For all you muggles out there, the Marauders Map is a piece of parchment that allows the reader to see where all the students of Hogwarts (the Wizarding school) are and the map updates in real time. We moved away from this idea since we concluded that it would be very difficult to test. We ended up making a bookmark feature for Facebook called FacebookMark. We were all very new to Javascript at the time so it took us sometime to get acquainted with the language. We created a user script using <a href"https://chrome.google.com/webstore/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo?hl=en">Tampermonkey</a>, a Chrome extension that allows you to run userscripts on websites. As this is a hack, it has not been extensively tested and does not work fully as we would have liked it to. It is a project we will get back to in order to make it a Facebook App. The source code for the user script can be found <a href"https://github.com/nexusapoorvacus/FacebookBookmarks">here</a>.
+		</h4>
 	</div>
 </body>
 </html>

@@ -12,7 +12,17 @@
 	<div id="pageheaders">
 		<h1>What an Idea!</h1>
 		</br>
-		<small>UNDER CONSTRUCTION</small>
+	</div>
+	<div id="pagecontent">
+		<h3>Purpose</h3>
+		<h4>
+			The main purpose of this blog is for me to voice and organize the various ideas that I have for inventions. I have always wanted to be an entrepreneur and am always thinking of new innovations that can be created.
+		</h4>
+	</br>
+		<h3>There's an Idea</h3>
+		<h4>
+			This blog is currently underconstruction, but a previous version of my blog can be found <a href="http://nexusapoorvacus.webs.com/apps/blog/categories/show/1500268-there-s-an-idea">here</a>.
+		</h4>
 	</div>
 </body>
 </html>

@@ -12,7 +12,17 @@
 	<div id="pageheaders">
 		<h1>Me, Myself, and I</h1>
 		</br>
-		<small>UNDER CONSTRUCTION</small>
+	</div>
+	<div id="pagecontents">
+		<h3>Purpose</h3>
+		</h4>
+			The purpose of this blog is to share some of the experiences I have had that are either profound or hilarious. 
+		</h4>
+	</br>
+		<h3>Personal</h3>
+		<h4>
+			This blog is currently underconstruction, but a previous version of my blog can be found <a href="http://nexusapoorvacus.webs.com/apps/blog/categories/show/1508686-nexus-apoorvacus">here</a>.
+		</h4>
 	</div>
 </body>
 </html>
