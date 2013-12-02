@@ -14,5 +14,12 @@
 		</br>
 		<small>UNDER CONSTRUCTION</small>
 	</div>
+	<div id="pagecontent">
+		<h3>
+			<li><a href="http://www.ocf.berkeley.edu/~apoorva/personalWebsite/IdeasBlog.shtml">There's An Idea</a>
+			<li><a href="http://www.ocf.berkeley.edu/~apoorva/personalWebsite/PersonalBlog.shtml">Me, Myself, and I</a>
+			<li><a href="http://www.ocf.berkeley.edu/~apoorva/personalWebsite/Research.shtml">Research</a>
+		</h3>
+	</div>
 </body>
 </html>

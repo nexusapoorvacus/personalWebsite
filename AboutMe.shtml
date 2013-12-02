@@ -14,5 +14,11 @@
 		</br>
 		<small>UNDER CONSTRUCTION</small>
 	</div>
+	<div id="pagecontent">
+		<h3>
+			<li><a href="http://www.ocf.berkeley.edu/~apoorva/personalWebsite/Resume.shtml">Resume</a>
+			<li><a href="http://www.ocf.berkeley.edu/~apoorva/personalWebsite/CommunityInvolvement.shtml">Community Involvement</a>
+		</h3>
+	</div>
 </body>
 </html>
