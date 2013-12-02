@@ -23,6 +23,14 @@
 		<h4>
 			My friends and I went to the Hackathon as a team. We had brainstormed some ideas before hand but we ended up doing something entirely different. We went in the Hackathon with the thoughts of creating a Marauders Map, inspired by Harry Potter. For all you muggles out there, the Marauders Map is a piece of parchment that allows the reader to see where all the students of Hogwarts (the Wizarding school) are and the map updates in real time. We moved away from this idea since we concluded that it would be very difficult to test. We ended up making a bookmark feature for Facebook called FacebookMark. We were all very new to Javascript at the time so it took us sometime to get acquainted with the language. We created a user script using <a href"https://chrome.google.com/webstore/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo?hl=en">Tampermonkey</a>, a Chrome extension that allows you to run userscripts on websites. As this is a hack, it has not been extensively tested and does not work fully as we would have liked it to. It is a project we will get back to in order to make it a Facebook App. The source code for the user script can be found <a href"https://github.com/nexusapoorvacus/FacebookBookmarks">here</a>.
 		</h4>
+	</br>
+		<h3>Collaborators</h3>
+		<h4>
+			<li><a href="http://www.ocf.berkeley.edu/~lichuqia/mysite/">Rita Li</a>
+			<li>Michelle Chang
+			<li>Kay Toma
+			<li>Alex Tian
+		</h4>
 	</div>
 </body>
 </html>

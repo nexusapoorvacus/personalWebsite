@@ -13,9 +13,11 @@
 		<h1>Office Hours App</h1>
 	</br>
 	</div>
-	<a href="http://www.ocf.berkeley.edu/~apoorva/flasky/"><h2 id="pagecontent">Go to the App: </br></h2></a>
-	<h2 id="pagecontent"><small>Username: admin Password: default</small></h2>
+
 	<div id="pagecontent">
+		<a href="http://www.ocf.berkeley.edu/~apoorva/flasky/"><h2>Go to the App </h2></a>
+		<h2><small>Username: admin Password: default</small></h2>
+
 		<h3>What is it?</h3>
 		<h4>
 			Office Hours are times when college professors, GSI's, and TA's are available for students to ask them questions about anything in the course. As most college students know, these office hours can get chaotic, especially when project deadlines or midterms come closer. This office hours app allows students to sign up for office hours and includes other features that make office hours more organized, efficient, and convenient for the instructors and students, alike.
@@ -31,6 +33,15 @@
 			This app is being made using the <a href="http://flask.pocoo.org/">Flask</a> framework. Flask is a microframework that is based of of Python and Jinga. In other words, the backend of the application is being written in Python and the frontend is created using HTML/CSS, Javascript, and Jinga. 
 			The queue works very simply. When students fill out their information and click "Help Me!", they get added to the database. The webpage of the app displays whatever is in the database so the student then shows up in the queue. We sort the queue using the inherent id of each student. 
 		</h4>
+	</br>
+		<h3>Collaborators</h3>
+			<h4>
+				<li>Andrew Huang
+				<li><a href="http://www.ocf.berkeley.edu/~lichuqia/mysite/">Rita Li</a>
+				<li>Selena Shang
+				<li>Kay Toma
+				<li>Michelle Chang
+			</h4>
 	</div>
 </body>
 <!--#include virtual="footer.html"-->

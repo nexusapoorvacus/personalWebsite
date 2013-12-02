@@ -12,7 +12,10 @@
 	<div id="pageheaders">
 		<h1>Contact Me</h1>
 		</br>
-		<small>UNDER CONSTRUCTION</small>
+	</div>
+	<div id="pagecontent">
+		<h3>Email: apoorva.dornadula@berkeley.edu</h3>
+		<h3>Github: <a href="https://github.com/nexusapoorvacus">https://github.com/nexusapoorvacus</a></h3>
 	</div>
 </body>
 </html>

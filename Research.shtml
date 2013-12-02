@@ -12,7 +12,21 @@
 	<div id="pageheaders">
 		<h1>Research</h1>
 		</br>
-		<small>UNDER CONSTRUCTION</small>
+	</div>
+	<div id="pagecontent">
+		<h3>Purpose</h3>
+		<h4>
+			The main purpose of this blog is a way for me to document and share the intriguing research that I have done. I have had the opportunity to research in UC Berkeley EECS <a href="http://light.eecs.berkeley.edu/cch/">Professor Connie Chang-Hasnain</a>'s lab for the past two summers. In the summer of 2012, I participated in SHARP (Summer Highschool Apprenticeship Program), a month-long summer program that pairs up twelve high school juniors to graduate student mentors to work on research project. My research project was in the area of photonics. I optimized a specific vertical coupler (a device that enables light to enter a silicon chip) using Matlab and Lumerical. In the summer of 2013, I researched for a month again in Professor Chang-Hasnain's Lab. This time, I created a software that would integrate the different software needed to optimize a photonic device.
+		</h4>
+	</br>
+		<h3>Summer 2012</h3>
+		<h4>
+			This blog is currently underconstruction, but a previous version of my blog can be found <a href="http://nexusapoorvacus.webs.com/apps/blog/categories/show/1396812-berkeley-sharp-apoorva-dornadula">here</a>.
+		</h4>
+		<h3>Summer 2013</h3>
+		<h4>
+			This blog is currently underconstruction.
+		</h4>
 	</div>
 </body>
 </html>

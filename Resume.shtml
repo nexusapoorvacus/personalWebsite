@@ -12,7 +12,57 @@
 	<div id="pageheaders">
 		<h1>Resume</h1>
 		</br>
-		<small>UNDER CONSTRUCTION</small>
+	</div>
+	<div id="pagecontent">
+		<h3>Education</h3>
+		<h4>
+			University of California, Berkeley (in Berkeley, CA)
+		</br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Electrical Engineering Computer Science - Candidate of Graduation: 2017
+		</br>
+	</br>
+			Current and Past Technical Courses: Structure and Interpretation of Computer Programs (Python), Multivariable Calculus
+		</h4>
+	</br>
+		<h3>Technical Skills</h3>
+		<h4>
+			<li>Python
+			<li>Java
+			<li>Matlab
+			<li>HTML/CSS
+			<li>Flask
+			<li>Autodesk Inventor
+			<li>FDTD (Finite Difference Time Domain) Software
+			<li>Machine Tools
+		</h4>
+	</br>
+		<h3>Current Co-Curricular Activities</h3>
+		<h4>
+			SWE (Society of Women Engineers): Corporate Committee and Outreach Committee member
+		</br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Co-organized an Amazon Information Session at UC Berkeley.
+		</br>
+		</br>
+			WiSE (Women in Science and Engineering) theme program resident
+			</br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Webmaster
+		</br>
+		</br>
+			Member of Hackers@Berkeley
+		</h4>
+	</br>
+		<h3>Projects</h3>
+		<h4>
+			<a href="">FacebookMark (October 2013)</a>
+		</br>
+			<a href="">Office Hours App (November 2013 - Present)</a>
+		</h4>
+	</br>
+		<h3>Experience</h3>
+		<h4>
+			<a href="http://www.ocf.berkeley.edu/~apoorva/personalWebsite/Research.shtml">Research at UC Berkeley</a>
+		</br>
+			<a href="http://www.ocf.berkeley.edu/~apoorva/personalWebsite/HSProjects.shtml">High School Activities</a>
+		</br>
+			
+		</h4>
 	</div>
 </body>
 </html>
