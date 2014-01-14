@@ -16,13 +16,10 @@
     margin-right: auto;
 }
 
-#horizontal-navbar img{
-	padding-top: 10px;
-	padding-left: 17px;
-	opacity: .7; -webkit-filter: grayscale(5%) sepia(5%);
-}
-#horizontal-navbar img:hover {
-    opacity: 1.0; -webkit-filter: grayscale(0%) sepia(0%);;
+#navbarelements li{
+	margin-right: 8px;
+	margin-left: 8px;
+	text-align: center;
 }
 
 #subtiles{
@@ -44,6 +41,7 @@
 }
 
 .overlay {
+    white-space: nowrap;
     background: rgba(0, 0, 0, 0.6); /*can be anything, of course*/
 }
 

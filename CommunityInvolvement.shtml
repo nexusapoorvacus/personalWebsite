@@ -12,7 +12,12 @@
 	<div id="pageheaders">
 		<h1>Community Involvement</h1>
 		</br>
-		<small>UNDER CONSTRUCTION</small>
+	</div>
+	<div id="pagecontent">
+		<h3>UC Berkeley SWE Outreach</h3>
+		<h4>SWE (Society of Women Engineers) is a national nonprofit organization that encourages women to pursue their passion in the engineering fields. UC Berkeley has a <a href="http://swe.berkeley.edu">SWE chapter</a> that has many different committees. The outreach committee organizes events that involve bringing science and engineering to the community, especially events introducing young girls to the field. SWE Science Saturdays and SWE Scholars are two regular events that happen once a month on a Saturday. During these two events, elementary and middle school children come to campus for a couple of hours where we teach them science in a hands-on fashion. In December (2013), my friend and I organized a SWE Scholars where we taught the students about aerodynamics with a parachute and egg drop activity. I am very glad to have joined SWE and will definitely continue to be involved at my time at Cal.</h4>
+		<h3>AAUW</h3>
+		<h4><a href="http://www.aauw.org">AAUW</a> (American Association of University Women), is a nonprofit organization that encourages women to pursue higher education. One of their most prominent events in my community was the Mother/Daughter Discovery Days. During this event, 10 or so volunteers pick a subject that they are passionate about and teach the young elementary school girls with a hands-on approach. I decided to hold my class on Lego Robotics because that was the start to my interst in the STEM field. I ended up using Lego Mindstorm pieces and an NXT I had from my <a href="http://www.usfirst.org/roboticsprograms/fll">FIRST Lego League</a> (FLL) years. I began by explaining what a robot was, showing them how to program, and then letting them build their own robot arms in teams which they can test out on the robot. Many of the girls there had never done Lego Robotics and went back to their schools to create their own FLL teams. Since I am in college now, I cannot make the dates of the Discovery Days, but my sister continues the class and continues to make them very fun and creative. After I am done with college (and my sister takes off to college), I hope to continue my workshops.</h4>
 	</div>
 </body>
 </html>
