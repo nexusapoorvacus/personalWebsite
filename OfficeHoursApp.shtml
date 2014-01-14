@@ -15,22 +15,22 @@
 	</div>
 
 	<div id="pagecontent">
-		<a href="http://www.ocf.berkeley.edu/~apoorva/flasky/"><h2>Go to the App </h2></a>
+		<a href="http://www.ocf.berkeley.edu/~apoorva/flasky1/"><h2>Go to the App </h2></a>
 		<h2><small>Username: admin Password: default</small></h2>
 
 		<h3>What is it?</h3>
 		<h4>
-			Office Hours are times when college professors, GSI's, and TA's are available for students to ask them questions about anything in the course. As most college students know, these office hours can get chaotic, especially when project deadlines or midterms come closer. This office hours app allows students to sign up for office hours and includes other features that make office hours more organized, efficient, and convenient for the instructors and students, alike.
+			Office Hours are times when college professors, GSI's, and TA's are available for students to ask them questions about anything in the course. As most college students know, these office hours can get chaotic, especially when project deadlines or midterms come closer. This office hours app allows students to sign up for office hours and includes other features that make office hours more organized, efficient, and convenient for the instructors and students, alike. Updates will be made to the app very regularly so check back to see the app evolve into a really useful web tool!
 		</h4>
 	</br>
 		<h3>Features</h3>
 		<h4> 
-			We (my project mates and I) are planning to add some really useful features to this app. Currently, the app is in master mode. This mode is for TA's only and it allows them to delete any student from the queue. They can also sort the queue by time and category. We are working on making a student mode that mirrors the master mode but is limited in its capabilities. For example, students will only be able to delete themselves and will not be able to sort the queue. We are also in the process of adding an incentive feature that allows students who help other students (and as a result the other students leave the line) to move up in the line.  
+			We (my project mates and I) are planning to add some really useful features to this app. Currently, the app is in master mode. This mode is for TA's only and it allows them to delete any student from the queue. They can also sort the queue by time and category. TA's also have the capability to drag and drop students to reorder the queue easily. We are working on making a student mode that mirrors the master mode but is limited in its capabilities. For example, students will only be able to delete themselves and will not be able to sort the queue. We are also in the process of adding an incentive feature that allows students who help other students (and as a result the other students leave the line) to move up in the line.
 		</h4>
 	</br>
 		<h3>How does it work?</h3>
 		<h4>
-			This app is being made using the <a href="http://flask.pocoo.org/">Flask</a> framework. Flask is a microframework that is based of of Python and Jinga. In other words, the backend of the application is being written in Python and the frontend is created using HTML/CSS, Javascript, and Jinga. 
+			This app is being made using the <a href="http://flask.pocoo.org/">Flask</a> framework. Flask is a microframework that is based of of Python and Jinga. In other words, the backend of the application is being written in Python and the frontend is created using HTML/CSS, Javascript, JQuery, Ajax, and Jinga. 
 			The queue works very simply. When students fill out their information and click "Help Me!", they get added to the database. The webpage of the app displays whatever is in the database so the student then shows up in the queue. We sort the queue using the inherent id of each student. 
 		</h4>
 	</br>

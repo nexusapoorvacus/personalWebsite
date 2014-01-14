@@ -23,7 +23,7 @@
 			<a href="WiSEWebsite.shtml" id="subtiles"><img src="WiSEWebsite.jpg"></a>
 			<a href="HSProjects.shtml"><img src="HSProjects.jpg"></a>
 			<a href="Research.shtml" id="subtiles"><img src="Research.jpg"></a>
-			<img src="http://placehold.it/200x200" id="subtiles">
+			<img hidden src="http://placehold.it/200x200" id="subtiles">
 		</ul>
 	</div>
 </body>
