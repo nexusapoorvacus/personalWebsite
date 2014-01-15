@@ -21,6 +21,7 @@
 	margin-left: 6px;
 	margin-bottom: 0px;
 	text-align: center;
+	margin-top: 0px;
 }
 
 #subtiles{
@@ -48,6 +49,7 @@
 
 #toptiles img {
 	opacity: .7; -webkit-filter: grayscale(10%) sepia(10%);
+	margin-top: 10px;
 }
 
 #toptiles img:hover {
