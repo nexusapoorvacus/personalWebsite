@@ -9,6 +9,7 @@
 	<link href='http://fonts.googleapis.com/css?family=Vollkorn:400,700' rel='stylesheet' type='text/css'>
 </head>
 <body>
+	<h2>Newest Project at the hackTECH 2014 can be found <a href="http://www.ocf.berkeley.edu/~apoorva/flasky2/">here</a>!</h2>
 	<div class="overlay">
 		<ul id="toptiles">
 			<a href="Resume.shtml" id="subtiles"><img src="Resume.jpg"></a>
