@@ -26,6 +26,13 @@
 			<a href="Research.shtml" id="subtiles"><img src="Research.jpg"></a>
 			<img hidden src="http://placehold.it/200x200" id="subtiles">
 		</ul>
+		<ul id="bottomtiles">
+			<a href="#" id="subtiles"><img hidden src="CommunityInvolvement.jpg"></a>
+			<a href="IntuitLeanStartIN.shtml" id="subtiles">Intuit Lean StartIN</a>
+			<a href="#" id="subtiles"><img hidden src="HSProjects.jpg"></a>
+			<a href="#" id="subtiles"><img hidden src="Research.jpg"></a>
+			<img hidden src="http://placehold.it/200x200" id="subtiles">
+		</ul>
 	</div>
 </body>
 <!--#include virtual="footer.html"-->
